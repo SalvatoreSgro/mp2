@@ -38,3 +38,8 @@
 .card img {
     width: 100%;
 }
+
+.card a {
+    color: #222;
+    text-decoration: none;
+}
